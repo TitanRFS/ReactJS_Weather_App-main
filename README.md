@@ -13,4 +13,4 @@ Run: `npm run start`
 Install deps: `npm install`
 
 
--- TitanRFS
+-- TitanRFS / Christos Gianniotis
